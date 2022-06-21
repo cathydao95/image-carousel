@@ -1,0 +1,19 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.carousel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.image-container {
+  text-align: center;
+  height: 700px;
+}
+
+.image {
+  height: 100%;
+}
