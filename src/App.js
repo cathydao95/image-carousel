@@ -2,8 +2,8 @@ import Carousel from "./components/Carousel";
 
 function App() {
   return (
-    <div>
-      <div>
+    <div className="container">
+      <div className="carousel-container">
         <Carousel />
       </div>
     </div>
